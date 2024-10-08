@@ -1,6 +1,4 @@
-$ git add index.html
-$ git commit -m "Inisialisasi situs web"
-$ git push origin main
+
 <!DOCTYP html>
 <html lang="id">
 <head>
