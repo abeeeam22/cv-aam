@@ -1,0 +1,48 @@
+/* Reset dasar */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* Gaya untuk seluruh tubuh */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; /* Warna latar belakang */
+    color: #333333; /* Warna teks */
+    line-height: 1.6;
+}
+
+/* Container utama */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* Warna latar belakang kontainer */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Gaya untuk header */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile-photo {
+    border-radius: 50%; /* Membuat foto profil bulat */
+    border: 3px solid #ccc; /* Border abu-abu */
+}
+
+/* Gaya untuk judul */
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.8em;
+    background-color: #e0e0e0; /* Warna latar belakang judul */
+    padding: 10px;
+    border-radius: 5px;
+    margin-bot
